@@ -6,7 +6,7 @@ UI Mock Screen names:
 
 * twitter-android-profile.png
 * twitter-android-search-box.png
-*twitter-android-timeline.png
+* twitter-android-timeline.png
 
 #Steps followed in running the app.
 
